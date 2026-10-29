@@ -1,0 +1,10 @@
+id: YDP279B001-V2
+category: displays
+size: "2.79"
+panel: tft
+resolution: 142x428
+interface: [spi]
+driver: NV3007
+touch: null
+outline: 24.38 x 69.43 mm
+active_area: 21.28 x 64.14 mm
